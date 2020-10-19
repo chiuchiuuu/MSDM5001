@@ -5,7 +5,7 @@
 run 
 
 ```bash
-sh ./hw1.sh
+sh ./Question2.sh
 ```
 
 ## Question 3
@@ -13,7 +13,7 @@ sh ./hw1.sh
 run
 
 ```bash
-python3 hw1.py > result.txt
+python3 Question3.py > result.txt
 ```
 
 the result will be printed to the file `result.txt`
